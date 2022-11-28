@@ -1,0 +1,13 @@
+n=int(input('Enter Pin'))
+if n==8967:
+  print('Continue the transaction')
+else:
+   print('Incorrect Pin')
+   print('Please try again')
+
+
+
+
+output:
+Enter number:453
+Number is Greater than 100
